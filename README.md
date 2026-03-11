@@ -3,7 +3,7 @@
 
 <p align="center">
 🎓 Master's in Computer Science - University of Central Missouri <br>
-☁️ Passionate about Cloud Computing & Scalable Applications <br>
+☁️ Passionate about Cloud Computing & Scalable Applications, Learning AI/ML <br>
 💻 Background in Java Backend Development
 </p>
 
