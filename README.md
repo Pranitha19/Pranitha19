@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### ☁️ Campus Events Portal – AWS Serverless Application
 
