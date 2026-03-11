@@ -75,12 +75,6 @@ A scalable **serverless web application** that allows students to browse and reg
 
 ---
 
-## 📈 GitHub Stats
-
-![Pranitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranitha19&show_icons=true&theme=default)
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced **AWS Cloud Architecture**
@@ -99,7 +93,11 @@ Email: reddypranitha760@gmail.com
 
 ⭐ From [Pranitha Avula](https://github.com/Pranitha19)
 
+<!--
+## 📈 GitHub Stats
 
+![Pranitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranitha19&show_icons=true&theme=default)
+--   --!>
 
 <!--
 **Pranitha19/Pranitha19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
