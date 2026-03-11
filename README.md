@@ -44,6 +44,22 @@ A scalable **serverless web application** that allows students to browse and reg
 - Hosted frontend using **S3 + CloudFront CDN**
 - Implemented **secure authentication using Cognito**
 
+### YardProProject
+
+YardProProject is a web-based yard service management application built using PHP and MVC architecture. It allows users to browse yard services, schedule tasks, and manage bookings, while providing admins with a dashboard to manage entries efficiently.
+
+**Tech Stack:**  PHP (MVC) | MySQL | HTML, CSS, JavaScript
+
+**Features:**
+
+Service listing and scheduling
+
+User registration and login
+
+Admin dashboard for managing bookings
+
+Clean, responsive UI
+
 ---
 ## 🛠️ Technologies & Tools
 
