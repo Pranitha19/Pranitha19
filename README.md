@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranitha Avula</h1>
-<h3 align="center">Aspiring Cloud Engineer | Software Engineer | Master's Student</h3>
+<h3 align="center">Aspiring Data Analyst | Software Engineer | Master's Student</h3>
 
 <p align="center">
 🎓 Master's in Computer Science - University of Central Missouri <br>
-☁️ Passionate about Cloud Computing & Scalable Applications, Learning AI/ML <br>
+☁️ Passionate about Data Analysis, Learning AI/ML <br>
 💻 Background in Java Backend Development
 </p>
 
@@ -12,10 +12,10 @@
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science graduate currently pursuing **Master’s in Computer Science(United States)**
-- ☁️ Interested in **Cloud Engineering and Backend Development**
-- 🧠 Currently learning **AWS, DevOps practices, and AI/ML(beginner)**
-- 🚀 Building projects using **AWS Serverless Architecture, Php full stack project, Java based full stack employee management project**
-- 🎯 Goal: Become a **Software Engineer/ at top tech companies**
+- ☁️ Interested in **Data Analysis and Backend Development**
+- 🧠 Currently learning **AWS, DevOps practices, and Skills:Tableau, AI/ML(beginner)**
+- 🚀 Building projects using **AWS Serverless Architecture, Php fullstack project, Java based full stack employee management project**
+- 🎯 Goal: Become a **Software Engineer/Data Analyst at top tech companies**
 
 ---
 
