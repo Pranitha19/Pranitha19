@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranitha Avula</h1>
-<h3 align="center">Aspiring Data Analyst | Software Engineer | Master's Student</h3>
+<h3 align="center">Software Engineer | Aspiring Data Analyst | Master's Student</h3>
 
 <p align="center">
 🎓 Master's in Computer Science - University of Central Missouri <br>
