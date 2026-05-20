@@ -93,6 +93,18 @@ Clean, responsive UI
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+
+### Data Science & Big Data
+
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-00897B?style=for-the-badge&logo=tableau&logoColor=white)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-6A1B9A?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+
 ### Web
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
