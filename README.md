@@ -64,8 +64,11 @@ Clean, responsive UI
 ### Customer Purchase Behavior Analysis & Prediction
 
 •	Built a machine learning model to analyze customer purchase behavior and predict purchase likelihood using demographic and transaction-related features.
+
 •	Performed data cleaning, preprocessing, and exploratory data analysis (EDA) using Python (Pandas, NumPy) to identify trends in customer spending patterns.
+
 •	Applied feature selection techniques and developed a Logistic Regression classification model to predict purchasing decisions.
+
 •	Evaluated model performance using accuracy metrics and generated business insights on key factors such as age, income, spending score, and purchase history influencing customer behavior.
 
 
