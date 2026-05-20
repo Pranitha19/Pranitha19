@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranitha Avula</h1>
-<h3 align="center">Software Engineer | Aspiring Data Analyst | Master's Student</h3>
+<h3 align="center">Software Engineer | Aspiring AI/ML Engineer | Master's Student</h3>
 
 <p align="center">
 🎓 Master's in Computer Science - University of Central Missouri <br>
-☁️ Passionate about Data Analysis, Learning AI/ML <br>
+☁️ Passionate about Software Engineer, AI/ML Engineer, Learning AI/ML <br>
 💻 Background in Java Backend Development
 </p>
 
@@ -12,10 +12,10 @@
 ## 👩‍💻 About Me
 
 - 🎓 Computer Science graduate currently pursuing **Master’s in Computer Science(United States)**
-- ☁️ Interested in **Data Analysis and Backend Development**
+- ☁️ Interested in **AI/ML Engineer and Backend Development**
 - 🧠 Currently learning **AWS, DevOps practices, and Skills:Tableau, AI/ML(beginner)**
 - 🚀 Building projects using **AWS Serverless Architecture, Php fullstack project, Java based full stack employee management project**
-- 🎯 Goal: Become a **Software Engineer/Data Analyst at top tech companies**
+- 🎯 Goal: Become a **Software Engineer/AI/ML Engineer at top tech companies**
 
 ---
 
@@ -59,6 +59,15 @@ User registration and login
 Admin dashboard for managing bookings
 
 Clean, responsive UI
+
+
+### Customer Purchase Behavior Analysis & Prediction
+
+•	Built a machine learning model to analyze customer purchase behavior and predict purchase likelihood using demographic and transaction-related features.
+•	Performed data cleaning, preprocessing, and exploratory data analysis (EDA) using Python (Pandas, NumPy) to identify trends in customer spending patterns.
+•	Applied feature selection techniques and developed a Logistic Regression classification model to predict purchasing decisions.
+•	Evaluated model performance using accuracy metrics and generated business insights on key factors such as age, income, spending score, and purchase history influencing customer behavior.
+
 
 ---
 ## 🛠️ Technologies & Tools
