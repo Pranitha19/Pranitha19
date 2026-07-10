@@ -134,7 +134,7 @@ Clean, responsive UI
 
 ## 📫 Connect With Me
 
-LinkedIn: www.linkedin.com/in/myprofile7
+LinkedIn: www.linkedin.com/in/pranitha-avula
 Email: reddypranitha760@gmail.com
 
 ---
