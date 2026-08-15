@@ -1,163 +1,170 @@
-<h1 align="center">Hi 👋, I'm Pranitha Avula</h1>
-<h3 align="center">Software Engineer | Master's Student</h3>
+# 👋 Hi, I'm Pranitha Avula
 
-<p align="center">
-🎓 Master's in Computer Science - University of Central Missouri <br>
-☁️ Passionate about Software Engineer, AI/ML Engineer, Learning AI/ML <br>
-💻 Background in Java Backend Development
-</p>
+### 💻 Software Engineer | 📊 Data Analytics | 🤖 AI/ML | 🎓 MS Computer Science
+
+Software Engineer with nearly **3 years of professional experience** building enterprise applications and scalable backend systems using **Java, Spring Boot, REST APIs, Microservices, and SQL**.
+
+Currently pursuing a **Master's in Computer Science** at the **University of Central Missouri** and expanding my skills in **Data Analytics, Python, SQL, Machine Learning, and AI**.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science graduate currently pursuing **Master’s in Computer Science(United States)**
-- ☁️ Interested in **AI/ML Engineer and Backend Development**
-- 🧠 Currently learning **AWS, DevOps practices, and Skills:Tableau, AI/ML(beginner)**
-- 🚀 Building projects using **AWS Serverless Architecture, Php fullstack project, Java based full stack employee management project**
-- 🎯 Goal: Become a **Software Engineer/AI/ML Engineer at top tech companies**
+- 🎓 Pursuing **Master's in Computer Science** at the **University of Central Missouri, United States**
+- 💻 Software Engineer with nearly **3 years of professional experience**
+- ☕ Experienced in **Java, Spring Boot, REST APIs, Microservices, and Kafka**
+- 🗄️ Experienced with **SQL, MySQL, PostgreSQL, Oracle, and DynamoDB**
+- 📊 Expanding my expertise in **Data Analytics, SQL, Python, Pandas, NumPy, and EDA**
+- 🤖 Interested in **Artificial Intelligence, Machine Learning, Predictive Modeling, and Data-driven solutions**
+- ☁️ Working with **AWS, Docker, Hadoop, and Apache Spark**
+- 🚀 Building projects across **Software Engineering, Data Analytics, Cloud Computing, and AI/ML**
+- 🎯 Open to opportunities in **Software Engineering, Backend Engineering, Data Analytics, Business Intelligence, and AI/ML**
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming
+- **Java**
+- **Python**
+- **SQL**
+
+### ☕ Backend Development
+- **Spring Boot**
+- **REST APIs**
+- **Microservices**
+- **Kafka**
+
+### 📊 Data Analytics
+- **SQL**
+- **Pandas**
+- **NumPy**
+- **Data Cleaning**
+- **Exploratory Data Analysis (EDA)**
+- **Data Analysis**
+- **Data Visualization**
+
+### 🤖 AI / Machine Learning
+- **Scikit-learn**
+- **Machine Learning**
+- **Predictive Modeling**
+- **Feature Engineering**
+- **Model Evaluation**
+
+### 🗄️ Databases
+- **MySQL**
+- **PostgreSQL**
+- **Oracle**
+- **DynamoDB**
+
+### ☁️ Cloud & Big Data
+- **AWS**
+- **Docker**
+- **Hadoop**
+- **Apache Spark**
+
+### 🧰 Tools
+- **Git**
+- **GitHub**
+- **Jira**
+- **VS Code**
+- **IntelliJ IDEA**
 
 ---
 
 ## 🚀 Featured Projects
 
-### ☁️ Campus Events Portal – AWS Serverless Application
+### 📊 Customer Purchase Behavior Analysis & Prediction
 
-A scalable **serverless web application** that allows students to browse and register for campus events.
+> **Python | Pandas | NumPy | Scikit-learn | Machine Learning**
 
-**Tech Stack**
-
-- AWS Lambda
-- Amazon API Gateway
-- Amazon DynamoDB
-- Amazon S3
-- Amazon CloudFront
-- Amazon Cognito
-- Amazon SNS
-- AWS IAM
-
-**Highlights**
-
-- Designed a **serverless cloud architecture on AWS**
-- Built **REST APIs using API Gateway and Lambda**
-- Stored event data using **DynamoDB**
-- Hosted frontend using **S3 + CloudFront CDN**
-- Implemented **secure authentication using Cognito**
-
-### YardProProject
-
-YardProProject is a web-based yard service management application built using PHP and MVC architecture. It allows users to browse yard services, schedule tasks, and manage bookings, while providing admins with a dashboard to manage entries efficiently.
-
-**Tech Stack:**  PHP (MVC) | MySQL | HTML, CSS, JavaScript
-
-**Features:**
-
-Service listing and scheduling
-
-User registration and login
-
-Admin dashboard for managing bookings
-
-Clean, responsive UI
-
-
-### Customer Purchase Behavior Analysis & Prediction
-
-•	Built a machine learning model to analyze customer purchase behavior and predict purchase likelihood using demographic and transaction-related features.
-
-•	Performed data cleaning, preprocessing, and exploratory data analysis (EDA) using Python (Pandas, NumPy) to identify trends in customer spending patterns.
-
-•	Applied feature selection techniques and developed a Logistic Regression classification model to predict purchasing decisions.
-
-•	Evaluated model performance using accuracy metrics and generated business insights on key factors such as age, income, spending score, and purchase history influencing customer behavior.
-
+- 🧹 Performed **data cleaning and preprocessing**
+- 🔎 Conducted **Exploratory Data Analysis (EDA)**
+- 🐼 Used **Pandas and NumPy** for data analysis
+- 🎯 Performed **feature selection and engineering**
+- 🤖 Applied **Logistic Regression** to predict customer purchasing behavior
+- 📈 Evaluated model performance
+- 💡 Identified **customer behavior patterns and business insights**
 
 ---
-## 🛠️ Technologies & Tools
 
-### Programming
+### ☁️ Campus Events Portal – AWS Serverless Application
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+> **AWS Lambda | API Gateway | DynamoDB | S3 | CloudFront | Cognito | SNS**
 
-### Cloud
+- ☁️ Designed a **serverless cloud architecture**
+- 🔗 Built REST APIs using **AWS Lambda and API Gateway**
+- 🗄️ Used **Amazon DynamoDB** for data storage
+- 🌐 Hosted application components using **Amazon S3 and CloudFront**
+- 🔐 Implemented authentication using **Amazon Cognito**
+- 📩 Integrated **Amazon SNS** for notifications
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+---
 
-### AI / Machine Learning
+### 💻 YardProProject – Yard Service Management Application
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+> **PHP | MVC | MySQL | HTML | CSS | JavaScript**
 
-
-### Data Science & Big Data
-
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-00897B?style=for-the-badge&logo=tableau&logoColor=white)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-6A1B9A?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-
-### Web
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+- 🚀 Developed a web-based **yard service management application**
+- 🏗️ Implemented **MVC architecture**
+- 🗄️ Used **MySQL** for data management
+- 👤 Implemented user registration and authentication
+- 📅 Developed service scheduling and booking functionality
+- 📊 Created administrative functionality for managing services and bookings
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced **AWS Cloud Architecture**
-- **AI/ML**
-- **Fullstack Development**
-- **Data Analysis**
+- 📊 **Advanced SQL & Data Analytics**
+- 📈 **Power BI & Data Visualization**
+- 🐍 **Python for Data Analysis**
+- 🤖 **Machine Learning & AI**
+- ☁️ **AWS Cloud Technologies**
+- 🔥 **Apache Spark & Big Data**
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Areas of Interest
 
-LinkedIn: www.linkedin.com/in/pranitha-avula
-Email: reddypranitha760@gmail.com
+⭐ **Software Engineering**  
+⭐ **Backend Development**  
+⭐ **Data Analytics**  
+⭐ **Business Intelligence**  
+⭐ **Artificial Intelligence & Machine Learning**  
+⭐ **Cloud Computing**  
+⭐ **Data & Distributed Systems**
 
 ---
 
-⭐ From [Pranitha Avula](https://github.com/Pranitha19)
+## 📚 Education
 
-<!--
-## 📈 GitHub Stats
+🎓 **Master's Degree in Computer Science**  
+**University of Central Missouri**  
+📅 June 2025 – December 2026
 
-![Pranitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranitha19&show_icons=true&theme=default)
---   --!>
+🎓 **Bachelor's Degree in Computer Science**
 
-<!--
-**Pranitha19/Pranitha19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📜 Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ☁️ **AWS Cloud Practitioner Essentials**
+- 🔗 **REST APIs using Spring**
+- 🔗 **Spring REST**
+- 🔗 **Service Layer using Spring**
+- 🔄 **Being Agile Aware**
+
+---
+
+## 📫 Let's Connect!
+
+💼 **LinkedIn:** [Pranitha Avula](https://www.linkedin.com/in/pranitha-avula/)
+
+📧 **Email:** reddypranitha760@gmail.com
+
+---
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+💻 **Software Engineering** • 📊 **Data Analytics** • 🤖 **AI/ML** • ☁️ **Cloud**
