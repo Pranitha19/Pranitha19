@@ -18,7 +18,7 @@ Currently pursuing a **Master's in Computer Science** at the **University of Cen
 - 🤖 Interested in **Artificial Intelligence, Machine Learning, Predictive Modeling, and Data-driven solutions**
 - ☁️ Working with **AWS, Docker, Hadoop, and Apache Spark**
 - 🚀 Building projects across **Software Engineering, Data Analytics, Cloud Computing, and AI/ML**
-- 🎯 Open to opportunities in **Software Engineering, Backend Engineering, Data Analytics, Business Intelligence, and AI/ML**
+- 🎯 Open to opportunities in **Software Engineering, Backend Engineering, Data Analytics and AI/ML**
 
 ---
 
