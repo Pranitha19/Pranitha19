@@ -1,170 +1,197 @@
 # 👋 Hi, I'm Pranitha Avula
 
-### 💻 Software Engineer | 📊 Data Analytics | 🤖 AI/ML | 🎓 MS Computer Science
+### 💻 Software Engineer | Java • Spring Boot • Microservices • Kafka • AWS
 
-Software Engineer with nearly **3 years of professional experience** building enterprise applications and scalable backend systems using **Java, Spring Boot, REST APIs, Microservices, and SQL**.
+I'm a **Software Engineer with 3 years of professional experience** building and maintaining enterprise backend applications using **Java, Spring Boot, Microservices, REST APIs, Apache Kafka, and relational databases**.
 
-Currently pursuing a **Master's in Computer Science** at the **University of Central Missouri** and expanding my skills in **Data Analytics, Python, SQL, Machine Learning, and AI**.
+My professional experience includes developing production microservices, performing **Java and Spring Boot version migrations**, refactoring deprecated code, building REST APIs, improving backend reliability and performance, resolving production issues, and developing automated tests with **JUnit**.
+
+🎓 Currently pursuing a **Master of Science in Computer Science** at the **University of Central Missouri**, expected **December 2026**.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing **Master's in Computer Science** at the **University of Central Missouri, United States**
-- 💻 Software Engineer with nearly **3 years of professional experience**
-- ☕ Experienced in **Java, Spring Boot, REST APIs, Microservices, and Kafka**
-- 🗄️ Experienced with **SQL, MySQL, PostgreSQL, Oracle, and DynamoDB**
-- 📊 Expanding my expertise in **Data Analytics, SQL, Python, Pandas, NumPy, and EDA**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, Predictive Modeling, and Data-driven solutions**
-- ☁️ Working with **AWS, Docker, Hadoop, and Apache Spark**
-- 🚀 Building projects across **Software Engineering, Data Analytics, Cloud Computing, and AI/ML**
-- 🎯 Open to opportunities in **Software Engineering, Backend Engineering, Data Analytics and AI/ML**
+- 💻 **3 years of professional Software Engineering experience**
+- ☕ Experienced in **Java, Spring Boot, Spring MVC, Spring Security, and Microservices**
+- 🔗 Built and maintained **REST APIs** for enterprise backend applications
+- ⚡ Worked with **Apache Kafka** for asynchronous and event-driven processing
+- 🔄 Experienced in **Java 11 → 15 → 17 migrations** and Spring Boot version upgrades
+- 🛠️ Refactored deprecated APIs and implemented replacement business logic during application upgrades
+- 🧪 Developed and maintained automated tests using **JUnit**
+- 🗄️ Experienced with **Spring Data JPA, Hibernate, MySQL, PostgreSQL, and Oracle**
+- ☁️ Hands-on experience with **AWS, Docker, and Jenkins**
+- 🔧 Experienced in production support, debugging, code reviews, regression testing, and Agile development
+- 🎯 Focused on **Software Engineer, Java Developer, and Backend Engineer** opportunities
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technical Skills
 
-### 💻 Programming
-- **Java**
-- **Python**
-- **SQL**
+### ☕ Languages
 
-### ☕ Backend Development
-- **Spring Boot**
-- **REST APIs**
-- **Microservices**
-- **Kafka**
+**Java • python • javascript • Angular • C • C++ • TypeScript**
 
-### 📊 Data Analytics
-- **SQL**
-- **Pandas**
-- **NumPy**
-- **Data Cleaning**
-- **Exploratory Data Analysis (EDA)**
-- **Data Analysis**
-- **Data Visualization**
+### 🚀 Backend Development
 
-### 🤖 AI / Machine Learning
-- **Scikit-learn**
-- **Machine Learning**
-- **Predictive Modeling**
-- **Feature Engineering**
-- **Model Evaluation**
+**Spring Boot • Spring MVC • Spring Security • REST APIs • Microservices • Hibernate • Spring Data JPA • JDBC**
 
 ### 🗄️ Databases
-- **MySQL**
-- **PostgreSQL**
-- **Oracle**
-- **DynamoDB**
+**MySql • DynamoDB • MongoDB • Oracle**
 
-### ☁️ Cloud & Big Data
-- **AWS**
-- **Docker**
-- **Hadoop**
-- **Apache Spark**
+### ☁️ Cloud & DevOps
 
-### 🧰 Tools
-- **Git**
-- **GitHub**
-- **Jira**
-- **VS Code**
-- **IntelliJ IDEA**
+**AWS Lambda • API Gateway • DynamoDB • S3 • CloudFront • Cognito**
+
+### 🧪 Testing & Development Tools
+
+**JUnit • Git • GitHub • GitLab • Maven • Jira • Confluence • Postman • Jenkins • IntelliJ IDEA • VS Code**
+
+---
+
+## 💼 Professional Experience Highlights
+
+### 🛒 Software Engineer — Kroger
+
+- Developed and maintained **Java and Spring Boot microservices** supporting store inventory reporting, out-of-stock management, and grocery scheduling workflows.
+- Performed production microservice upgrades across **Java 11 → 15 → 17** and Spring Boot versions.
+- Refactored deprecated APIs and implemented replacement business logic to maintain application compatibility and stability.
+- Designed and enhanced **REST APIs** supporting inventory and store-operation workflows.
+- Worked with **Apache Kafka** for asynchronous inventory-event processing and distributed microservice communication.
+- Investigated and resolved production issues affecting inventory-processing workflows.
+- Developed persistence and database functionality using **Spring Data JPA and MySQL**.
+- Created and maintained **JUnit test suites** for upgraded and newly implemented business logic.
+- Participated in regression testing, peer code reviews, Agile sprint delivery, and production deployments.
+
+### 💼 Software Engineer — Infosys
+
+- Developed and maintained **Java and Spring Boot backend services** for an enterprise payroll management application.
+- Built REST APIs supporting employee timecards, attendance, work-hour tracking, and payroll workflows.
+- Implemented backend business logic using **Spring Data JPA and MySQL**.
+- Contributed to testing, code reviews, production issue resolution, and Agile development.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 Customer Purchase Behavior Analysis & Prediction
+### ☁️ Campus Events Portal — AWS Serverless Application
 
-> **Python | Pandas | NumPy | Scikit-learn | Machine Learning**
+**AWS Lambda • API Gateway • DynamoDB • Cognito • S3 • CloudFront**
 
-- 🧹 Performed **data cleaning and preprocessing**
-- 🔎 Conducted **Exploratory Data Analysis (EDA)**
-- 🐼 Used **Pandas and NumPy** for data analysis
-- 🎯 Performed **feature selection and engineering**
-- 🤖 Applied **Logistic Regression** to predict customer purchasing behavior
-- 📈 Evaluated model performance
-- 💡 Identified **customer behavior patterns and business insights**
-
----
-
-### ☁️ Campus Events Portal – AWS Serverless Application
-
-> **AWS Lambda | API Gateway | DynamoDB | S3 | CloudFront | Cognito | SNS**
-
-- ☁️ Designed a **serverless cloud architecture**
-- 🔗 Built REST APIs using **AWS Lambda and API Gateway**
-- 🗄️ Used **Amazon DynamoDB** for data storage
-- 🌐 Hosted application components using **Amazon S3 and CloudFront**
-- 🔐 Implemented authentication using **Amazon Cognito**
-- 📩 Integrated **Amazon SNS** for notifications
+- Built a serverless event-management application using AWS managed services.
+- Developed REST APIs for event registration and event-management workflows.
+- Implemented secure user authentication using **Amazon Cognito**.
+- Used **DynamoDB** for serverless data persistence.
+- Used **S3 and CloudFront** for application hosting and content delivery.
+- Designed the application for scalable serverless cloud deployment.
 
 ---
 
-### 💻 YardProProject – Yard Service Management Application
+### 🤖 Customer Purchase Behavior Prediction
 
-> **PHP | MVC | MySQL | HTML | CSS | JavaScript**
+**Python • Pandas • NumPy • Scikit-learn • Logistic Regression**
 
-- 🚀 Developed a web-based **yard service management application**
-- 🏗️ Implemented **MVC architecture**
-- 🗄️ Used **MySQL** for data management
-- 👤 Implemented user registration and authentication
-- 📅 Developed service scheduling and booking functionality
-- 📊 Created administrative functionality for managing services and bookings
-
----
-
-## 🌱 Currently Learning
-
-- 📊 **Advanced SQL & Data Analytics**
-- 📈 **Power BI & Data Visualization**
-- 🐍 **Python for Data Analysis**
-- 🤖 **Machine Learning & AI**
-- ☁️ **AWS Cloud Technologies**
-- 🔥 **Apache Spark & Big Data**
+- Developed a supervised machine-learning model to predict customer purchasing behavior.
+- Performed data cleaning, preprocessing, and exploratory data analysis.
+- Conducted feature engineering using **Pandas and NumPy**.
+- Built a **Logistic Regression** classification model using Scikit-learn.
+- Evaluated model performance using classification metrics.
+- Analyzed customer behavior patterns to generate business insights.
 
 ---
 
-## 🎯 Areas of Interest
+### 🌱 Retail Inventory Management Platform — In Development
 
-⭐ **Software Engineering**  
-⭐ **Backend Development**  
-⭐ **Data Analytics**  
-⭐ **Business Intelligence**  
-⭐ **Artificial Intelligence & Machine Learning**  
-⭐ **Cloud Computing**  
-⭐ **Data & Distributed Systems**
+**Java • Spring Boot • Microservices • Kafka • Spring Security • JPA • SQL • Docker • AWS**
 
----
+I'm currently building a production-style backend application inspired by real-world retail inventory workflows.
 
-## 📚 Education
+The project is being designed to demonstrate:
 
-🎓 **Master's Degree in Computer Science**  
-**University of Central Missouri**  
-📅 June 2025 – December 2026
+- 🏗️ Microservices architecture
+- ☕ Java and Spring Boot backend development
+- 🔗 RESTful API design
+- ⚡ Event-driven communication with Apache Kafka
+- 🔐 Authentication and authorization
+- 🗄️ Relational database persistence with Spring Data JPA
+- 🧪 Unit and integration testing
+- 🐳 Docker containerization
+- ☁️ Cloud deployment
+- 🔄 CI/CD practices
 
-🎓 **Bachelor's Degree in Computer Science**
-
----
-
-## 📜 Certifications
-
-- ☁️ **AWS Cloud Practitioner Essentials**
-- 🔗 **REST APIs using Spring**
-- 🔗 **Spring REST**
-- 🔗 **Service Layer using Spring**
-- 🔄 **Being Agile Aware**
+> 🚧 **Currently under active development**
 
 ---
 
-## 📫 Let's Connect!
+## 📜 Certifications & Professional Development
 
-💼 **LinkedIn:** [Pranitha Avula](https://www.linkedin.com/in/pranitha-avula/)
-
-📧 **Email:** reddypranitha760@gmail.com
+- 🤖 **Google AI Professional Certificate**
+- ☁️ **Introduction to Microsoft Azure Cloud Services**
+- ☕ **Building Scalable Java Microservices with Spring Boot and Spring Cloud**
+- 🤖 **Supervised Machine Learning: Regression and Classification**
 
 ---
 
-### ⭐ Thanks for visiting my GitHub profile!
+## 🎓 Education
 
-💻 **Software Engineering** • 📊 **Data Analytics** • 🤖 **AI/ML** • ☁️ **Cloud**
+### Master of Science in Computer Science
+
+**University of Central Missouri**
+📅 Expected December 2026
+
+---
+
+## 🎯 Current Focus
+
+```text
+Java Backend Development
+Spring Boot & Microservices
+REST API Development
+Apache Kafka & Event-Driven Architecture
+Cloud-Native Applications
+AWS
+Docker & CI/CD
+Unit & Integration Testing
+System Design
+```
+
+---
+
+## 📊 GitHub Stats
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=Pranitha19&show_icons=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=Pranitha19\&show_icons=true\&hide_border=true)" alt="Pranitha's GitHub Stats" />
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Pranitha19&layout=compact&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranitha19\&layout=compact\&hide_border=true)" alt="Pranitha's Top Languages" />
+\</p>
+
+---
+
+## 📫 Let's Connect
+
+\<p align="left">
+&#x20; \<a href="[https://www.linkedin.com/in/pranitha-avula/](https://www.linkedin.com/in/pranitha-avula/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Pranitha%20Avula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Pranitha%20Avula-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>
+&#x20; \</a>
+&#x20; \<a href="mailto\:avulapranitha123\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-avulapranitha123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-avulapranitha123%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>
+&#x20; \</a>
+\</p>
+
+---
+
+### 💡 What I'm Looking For
+
+I'm currently exploring **full-time Software Engineer, Java Developer, and Backend Engineer opportunities** where I can contribute to building scalable backend systems, microservices, APIs, and cloud-native applications.
+
+---
+
+\<p align="center">
+&#x20; \<b>☕ Java • Spring Boot • Microservices • Kafka • AWS • Docker\</b>
+\</p>
+
+\<p align="center">
+&#x20; Thanks for visiting my GitHub profile! 🚀
+\</p>
