@@ -12,7 +12,7 @@ My professional experience includes developing production microservices, perform
 
 ## 👩‍💻 About Me
 
-- 💻 **3 years of professional Software Engineering experience**
+- 💻 **4 years of professional Software Engineering experience**
 - ☕ Experienced in **Java, Spring Boot, Spring MVC, Spring Security, and Microservices**
 - 🔗 Built and maintained **REST APIs** for enterprise backend applications
 - ⚡ Worked with **Apache Kafka** for asynchronous and event-driven processing
