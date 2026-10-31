@@ -6,8 +6,6 @@ I'm a **Software Engineer with 3 years of professional experience** building and
 
 My professional experience includes developing production microservices, performing **Java and Spring Boot version migrations**, refactoring deprecated code, building REST APIs, improving backend reliability and performance, resolving production issues, and developing automated tests with **JUnit**.
 
-🎓 Currently pursuing a **Master of Science in Computer Science** at the **University of Central Missouri**, expected **December 2026**.
-
 ---
 
 ## 👩‍💻 About Me
