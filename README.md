@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer | Java • Spring Boot • Microservices • Kafka • AWS
 
-I'm a **Software Engineer with 3 years of professional experience** building and maintaining enterprise backend applications using **Java, Spring Boot, Microservices, REST APIs, Apache Kafka, and relational databases**.
+I'm a **Fullstack Software Engineer with 3 years of professional experience** building and maintaining enterprise backend applications using **Java, Spring Boot, Microservices, REST APIs, Apache Kafka, and relational databases**.
 
 My professional experience includes developing production microservices, performing **Java and Spring Boot version migrations**, refactoring deprecated code, building REST APIs, improving backend reliability and performance, resolving production issues, and developing automated tests with **JUnit**.
 
