@@ -61,12 +61,14 @@ My professional experience includes developing production microservices, perform
 - Created and maintained **JUnit test suites** for upgraded and newly implemented business logic.
 - Participated in regression testing, peer code reviews, Agile sprint delivery, and production deployments.
 
-### 💼 Software Engineer — Infosys
+### 💼 Software Engineer — Apple
 
-- Developed and maintained **Java and Spring Boot backend services** for an enterprise payroll management application.
-- Built REST APIs supporting employee timecards, attendance, work-hour tracking, and payroll workflows.
-- Implemented backend business logic using **Spring Data JPA and MySQL**.
-- Contributed to testing, code reviews, production issue resolution, and Agile development.
+- Contributed to backend application development using Java and Spring Boot within an existing application codebase.
+- Assisted in developing and modifying REST API endpoints to support application functionality and data exchange.
+- Worked with SQL queries to retrieve, insert, update, and validate application data.
+- Supported backend business logic implementation and maintenance across controller and service components.
+- Investigated and debugged assigned backend issues, helping identify application errors and unexpected API behavior.
+- Collaborated with senior developers and team members to understand requirements, implement assigned changes, and validate functionality.
 
 ---
 
