@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pranitha Avula
+# 👋 Hi, I'm Pranitha
 
 ### 💻 Software Engineer | Java • Spring Boot • Microservices • Kafka • AWS
 
